@@ -4,8 +4,7 @@ Biophysicist and computational biochemist.  Background in systems and optical en
 - B.S. Biomedical Engineering, 2020, *Rensselaer Polytechnic Institute*
 - Ph.D. Quantitative Biosciences and Engineering, 2025, *Colorado School of Mines*
 
-- For science or collaboration inquiries, please email me at: ggerlich@mines.edu
-- For inquiries on non-science projects, please email me at: grayson.gerlich@proton.me
+- For inquiries or collaboration, please email me at: grayson.gerlich@proton.me
 
 
 <!---
