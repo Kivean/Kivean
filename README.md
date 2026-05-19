@@ -3,6 +3,7 @@ Biophysicist and computational biochemist.  Background in systems and optical en
 
 - B.S. Biomedical Engineering, 2020, *Rensselaer Polytechnic Institute*
 - Ph.D. Quantitative Biosciences and Engineering, 2025, *Colorado School of Mines*
+- Postdoc in Computation Biology, 2026-present, *University of Manitoba*
 
 - For inquiries or collaboration, please email me at: grayson.gerlich@proton.me
 
